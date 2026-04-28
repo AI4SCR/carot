@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "carot"
 version = "0.0.1"
-description = "Extension of the Conditional Monge Gap applied to single cell RNA sequencing of CAR T cells"
+description = "Extension of the Conditional Monge Gap applied to single-cell RNA sequencing of CAR T cells"
 authors = ["Alice Driessen <adr@zurich.ibm.com>", "Jannis Born <jab@zurich.ibm.com>"]
 readme = "README.md"
 
