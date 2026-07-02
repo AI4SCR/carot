@@ -6,7 +6,7 @@
 
 [Our paper](https://www.cell.com/cell-systems/fulltext/S2405-4712(26)00073-6) appeared on the cover of [Cell Systems, Volume 17, Issue 6](https://www.cell.com/cell-systems/issue?pii=S2405-4712(25)X0007-7)
 
-<img align="right" hspace="24" src="https://www.cell.com/cms/asset/atypon:cms:attachment:img:d91e6:rev:1781577267691-5359:pii:S2405471225X00077/cover.tif.jpg" alt="Cell Systems Volume 17 Issue 6 cover" width="220">
+<img align="right" hspace="24" src="assets/cell-systems-cover-vol17-issue6.jpg" alt="Cell Systems Volume 17 Issue 6 cover" width="220">
 
 CAROT applies the conditional Monge Gap to single-cell RNA sequencing data of Chimeric Antigen Receptor T cells. It extends the [Conditional Monge Gap](https://github.com/AI4SCR/conditional-monge), introduced in the Nature Machine Intelligence paper [Conditional Monge Gap enables generalizable single-cell perturbation modelling](https://doi.org/10.1038/s42256-026-01242-8), with CAR-specific dataloaders, embeddings, and trainers. The `notebooks` directory contains notebooks for generating the paper figures and additional analyses.
 
